@@ -1,4 +1,4 @@
-#include<sstdio.h
+#include<stdio.h>
 main()
 { 
 int x;
@@ -24,5 +24,5 @@ else
 {
 	printf(" GRADE F ");
 }
-return 0
+return 0;
 }
